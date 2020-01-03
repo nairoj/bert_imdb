@@ -1,2 +1,2 @@
 # bert_imdb
-改修bert的微调example  用在imdb数据库上
+修改[https://github.com/huggingface/transformers](huggingface/bert)的微调example代码，用在imdb上
